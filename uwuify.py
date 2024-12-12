@@ -1,6 +1,6 @@
 import discord
 import aiohttp
-#Requires discord.py 1.7.4
+#Requires discord.py 1.7.3
 #pip install discord.py=1.7.3
 
 
